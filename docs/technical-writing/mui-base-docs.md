@@ -1,10 +1,12 @@
 ---
 title: 'API documentation for an open source React UI library'
-date: '2022-07-01'
-tags: ['technical writing', 'documentation', 'JavaScript', 'TypeScript', 'React', API']
+date: '2022-07-22'
+tags: ['technical writing', 'documentation', 'JavaScript', 'TypeScript', 'React', 'API']
 description: 'I worked with the maintainers of MUI Base to develop thorough technical documentation for this React UI library.'
 sidebar_label: 'MUI Base product documentation'
 ---
+
+![](/img/mui/mui-base-docs.png)
 
 [MUI](https://www.mui.com/) is an international startup best known for Material UI, an open source React UI library that implements Google's [Material Design](https://www.material.io/).
 
@@ -15,6 +17,10 @@ I was responsible for creating and implementing a standard page structure and fo
 I handled all aspects of the organization and information architecture.
 I wrote the majority of the text based on earlier drafts and internal notes created the library's engineers.
 I created and implemented the company [Style Guide](https://mui-org.notion.site/Style-guide-2a957a4168a54d47b14bae026d06a24b) to ensure consistency in voice and tone.
+
+The MUI docs site is built with Next.js and Material UI, and hosted on Netlify via GitHub.
+All content is written in Markdown.
+We took a docs-as-code approach to writing these docs, tracking revisions with git and handling all reviews and edits in GitHub.
 
 This project was part of a larger effort to overhaul the documentation of all of MUI's products, and it served as an initial testing ground to establish patterns and templates that could be reused in the future.
 

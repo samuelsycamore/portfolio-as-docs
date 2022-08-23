@@ -4,6 +4,7 @@ date: '2014-01-06'
 tags: ['music', 'pop culture', 'interview']
 description: 'I published a cover story in the LEO Weekly magazing about a community leader in the Louisville, KY music scene.'
 sidebar_label: "Sean's Louisville"
+sidebar_position: 3
 ---
 
 https://www.leoweekly.com/2014/01/seans-louisville/

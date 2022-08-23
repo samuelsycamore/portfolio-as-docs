@@ -4,6 +4,7 @@ date: '2013-09-24'
 tags: ['music', 'pop culture', 'interview']
 description: 'I published a cover story in the LEO Weekly magazine about an influential musician in the Louisville, KY music scene.'
 sidebar_label: 'Basement Champion'
+sidebar_position: 1
 ---
 
 “Bad business is an expensive hobby.”

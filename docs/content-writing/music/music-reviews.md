@@ -3,8 +3,11 @@ title: 'Reviews and interviews from my time as a music journalist, 2013-2015'
 date: '2015-01-01'
 tags: ['music', 'pop culture', 'interview', review']
 description: 'I published a ton of music reviews and interviews with musicians for several publications, both in print and online.'
-sidebar_label: 'Music Reviews'
+sidebar_label: 'Music reviews and interviews'
+sidebar_position: 4
 ---
+
+## Reviews
 
 Ma Turner - _ZOZ_ (2014)
 
@@ -26,7 +29,7 @@ SELF-RELEASED
 FEB
 11
 2014
-BY SAM BENANTI
+
 
 Jaye Jayle is the boozehound alter ego of Evan Patterson, best known as the frontman of the vicious rock group Young Widows. But fans of Patterson’s other band, Old Baby, will find the most to love here, as … It’s Jayle Time offers a more stripped-down version of the psychedelic blues sound that band does so well. This singer-songwriter project is better suited to a ghost town saloon than a coffee shop open mic, with spacious, hypnotic acoustic strums evoking the sort of desperate loneliness that can only arise after sufficient time spent alone with one’s demons on a desolate landscape. Sure, the spoken-word “Introduction” is kinda corny, but it’s worth indulging Jayle and his merry band of Jaylebyrds in order to properly set the scene for this impressive, loosely conceptual collection of ramblin’ tunes.
 
@@ -59,7 +62,7 @@ SELF-RELEASED
 MAY
 14
 2014
-BY SAM BENANTI
+
 
 Black Birds of Paradise arrive fully formed on their debut, merging elements of jazz fusion, surf rock and pastoral folk under the banner of prog-leaning psych rock. This must be the work of music school geeks gone rogue — you won’t hear such expert chord changes out of any local peers, and they set themselves apart in the timbre department by way of a prominent vibraphone. So prominent, in fact, that it threatens to drown out the real action on tunes like “Western Song,” which features some sweet guitar licks that aren’t given the front-and-center treatment they deserve. There’s also a fair amount of humor here, but that humor can be hit or miss; the B-movie screams on “Cannibal Song” feel appropriate, but cringe-worthy lyrics on the knowing “Let’s Make Sex Together” undermine what is otherwise a killer instrumental.
 
@@ -96,7 +99,7 @@ LOUISVILLE EXPERIMENTAL FESTIVAL PUTS WORTHY MUSIC IN CONTEXT
 JUN
 25
 2014
-BY SAM BENANTI
+
 
 Straddling the line between high and low art, between dive bars and academia, between rigid classical training and anything-goes improvisation, Louisville’s experimental musicians explore the outer limits of sonic possibilities at a pace rivaling that of major metropolitan hotspots — whether anyone listens or not.
 
@@ -136,7 +139,7 @@ Different beats, different beasts: Merchandise’s beautiful mess
 JUN
 11
 2014
-BY SAM BENANTI
+
 
 Signing with British record label 4AD was just one of several paradigm-shifting decisions recently made by Tampa, Fla., indie rockers Merchandise, who also picked up two new permanent members in the time since last year’s LP Totale Nite. But the band hasn’t lost sight of its DIY sensibilities in the process of making their third full-length, After the End, which guitarist Dave Vassalotti says is their most intentionally straightforward pop record to date.
 
@@ -166,7 +169,7 @@ B-sides
 APR
 30
 2014
-BY SAM BENANTI
+
 
 Reap what you sow
 
@@ -182,7 +185,7 @@ When I ask the guys how they landed the record deal, they cheekily explain to me
 
 November 13, 2013
 The imaginary world of Washed Out
-BY SAM BENANTI
+
 The music of Ernest Greene, as Washed Out, is about as calm and dreamy as pop music gets, which is how he ended up as the poster child of the synth-heavy, reverb-soaked “chillwave” movement of the late aughts. And while his sophomore full-length, Paracosm, is his most laid-back offering yet, it bears little resemblance to the lo-fi bedroom demos of his early EPs.
 
 For one thing, Washed Out has made the jump from solo laptop project to full-fledged band in the intervening years and now features Greene’s wife on keyboards.
@@ -209,7 +212,7 @@ Greene feels fortunate to be able to share the stage with his band. “(When I s
 
 December 3, 2013
 B-sides
-BY SAM BENANTI
+
 Drop it
 
 Up-and-coming house DJ Vancington isn’t too happy with Louisville’s dance music scene. “Honestly, I hate most of it,” admits 21-year-old Alan Vance. “I’ve been to a few parties where the music, people, vibe — everything was awful. It’s saturated with music I really hate. The whole EDM thing makes my skin crawl.”

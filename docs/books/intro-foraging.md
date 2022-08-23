@@ -2,8 +2,9 @@
 title: 'An introductory book on edible wild plants'
 date: '2018-04-01'
 tags: ['biology', 'ecology', 'foraging']
-description: 'In 2018, I self-published a book to help curious nature enthusiasts learn about edible wild plants.'
+description: "A beginner's guide to gathering wild food with confidence."
 sidebar_label: 'Introduction to Foraging'
+sidebar_position: 1
 ---
 
 ![](/img/books/intro-foraging-thumbnail.png)

@@ -5,6 +5,7 @@ tags: ['music', 'pop culture', 'interview']
 draft: false
 description: 'I published a feature article in Impose Magazine about the state of the local music scene in my hometown in 2014.'
 sidebar_label: 'The Louisville Report'
+sidebar_position: 3
 ---
 
 ## Impose Magazine feature article
