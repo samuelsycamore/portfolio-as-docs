@@ -2,46 +2,16 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Sam Sycamore's Portfolio
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to my portfolio!
+I'm Sam Sycamore, a writer, editor, and open-source docs maintainer with over ten years of professional experience across multiple industries.
 
-## Getting Started
+I help SaaS startups and digital agencies clearly communicate the value of their products and services to their target users.
+I especially enjoy writing educational content for tech products, because I believe that strong docs are the best marketing materials you can present to the developer community.
 
-Get started by **creating a new site**.
+I currently work as a technical writer, copywriter, and developer advocate in the tech industry.
+I'm always happy to consider new clients for writing work.
+Feel free to [get in touch via email](mailto:samatsycamoredotgarden) if you'd like to work with me.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+This portfolio gathers highlights from across my career as a writer.
