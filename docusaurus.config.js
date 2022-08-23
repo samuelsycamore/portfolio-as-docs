@@ -6,18 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Sycamore Garden Portfolio',
+  tagline: 'The professional portfolio of Sam Sycamore, a writer and web developer.',
+  url: 'https://work.sycamore.garden',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/logo.png',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -34,18 +29,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: '/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -57,22 +43,46 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Sycamore Garden',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Sycamore Garden logo',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Portfolio',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://tech.sycamore.garden',
+            label: 'Tech',
+            position: 'right',
+          },
+          {
+            href: 'https://foraging.sycamore.garden',
+            label: 'Foraging',
+            position: 'right',
+          },
+          {
+            href: 'https://travel.sycamore.garden',
+            label: 'Travel',
+            position: 'right',
+          },
+          {
+            href: 'https://soundcloud.com/samsycamore',
+            label: 'Music',
+            position: 'right',
+          },
+          {
+            href: 'https://shop.sycamore.garden',
+            label: 'Shop',
+            position: 'right',
+          },
+          {
+            href: 'https://sycamore.garden',
+            label: 'About',
             position: 'right',
           },
         ],
@@ -81,41 +91,44 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Portfolio',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Copywriting',
+                to: '/docs/category/copywriting',
+              },
+              {
+                label: 'Technical Writing',
+                to: '/docs/category/technical-writing',
+              },
+              {
+                label: 'Content Writing',
+                to: '/docs/category/content-writing',
+              },
+              {
+                label: 'Public Speaking',
+                to: '/docs/category/public-speaking',
+              },
+              {
+                label: 'Books',
+                to: '/docs/category/books',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Get in Touch',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/samuelsycamore',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                href: 'https://www.twitter.com/tanoaksam',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://www.github.com/samuelsycamore',
               },
             ],
           },

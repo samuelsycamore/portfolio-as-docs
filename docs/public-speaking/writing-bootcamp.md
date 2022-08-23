@@ -1,9 +1,9 @@
 ---
-title: A two-week writing bootcamp for a tech blogging platform
+title: 'A two-week writing bootcamp for a tech blogging platform'
 date: '2021-10-01'
 tags: ['copywriting', 'marketing', 'public speaking', 'event planning']
-draft: false
-summary: I organized and hosted a live-streamed technical writing workshop series with top content creators in the tech industry.
+description: 'I organized and hosted a live-streamed technical writing workshop series with top content creators in the tech industry.'
+sidebar_label: 'Technical Writing Bootcamp'
 ---
 
 ![](/img/hashnode/hashnode.png)

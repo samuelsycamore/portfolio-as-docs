@@ -1,9 +1,10 @@
 ---
-title: An interview series from the underground music scene in Louisville, Kentucky
+title: 'An interview series from the underground music scene in Louisville, Kentucky'
 date: '2014-01-06'
 tags: ['music', 'pop culture', 'interview']
 draft: false
-summary: I published a feature article in Impose Magazine about the state of the local music scene in my hometown in 2014.
+description: 'I published a feature article in Impose Magazine about the state of the local music scene in my hometown in 2014.'
+sidebar_label: 'The Louisville Report'
 ---
 
 ## Impose Magazine feature article

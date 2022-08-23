@@ -2,8 +2,8 @@
 title: A new landing page for an open-source software startup
 date: '2022-03-01'
 tags: ['copywriting', 'marketing']
-draft: true
-summary:
+description: 'MUI case study'
+sidebar_label: 'MUI landing page'
 ---
 
 ## MUI case study

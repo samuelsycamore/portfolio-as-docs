@@ -1,12 +1,10 @@
 ---
-title: A complete branding overhaul for a digital product consultancy
+title: 'A complete branding overhaul for a digital product consultancy'
 date: '2022-02-01'
 tags: ['copywriting', 'marketing', 'content auditing']
-draft: false
-summary: I worked with Mainmatter (formerly simplabs) to revise the copy and content across their entire marketing website.
+description: 'I worked with Mainmatter (formerly simplabs) to revise the copy and content across their entire marketing website.'
+sidebar_label: 'Mainmatter copywriting and content auditing'
 ---
-
-## Mainmatter copywriting and content auditing
 
 [Mainmatter](https://mainmatter.com) (formerly simplabs) is a digital product consultancy that works with SME clients around the world.
 

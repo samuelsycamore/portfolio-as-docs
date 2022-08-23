@@ -1,19 +1,12 @@
 ---
-title: An interview series from the underground music scene in Louisville, Kentucky
+title: "Sean's Louisville: On the town with Louisville MUSICulture's Sean Bailey"
 date: '2014-01-06'
 tags: ['music', 'pop culture', 'interview']
-draft: true
-summary: I published a feature article in Impose Magazine about the state of the local music scene in my hometown in 2014.
+description: 'I published a cover story in the LEO Weekly magazing about a community leader in the Louisville, KY music scene.'
+sidebar_label: "Sean's Louisville"
 ---
 
 https://www.leoweekly.com/2014/01/seans-louisville/
-
-Sean’s Louisville
-ON THE TOWN WITH LOUISVILLE MUSICULTURE’S SEAN BAILEY
-JAN
-22
-2014
-BY SAM BENANTI
 
 It’s approaching 2 in the morning on the first Friday in November when Sean Bailey and I step out of our third and final concert of the night. Mississippi rapper Big K.R.I.T. has just wrapped up a relentless performance at Diamond Pub, and Bailey is driving me back to my car downtown when I ask outright, “What is Louisville MUSICulture?” But, of course, there’s no real reason for this question — he has already demonstrated the answer to me over the last several hours.
 

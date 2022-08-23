@@ -1,9 +1,9 @@
 ---
-title: An interview series from the underground music scene in Louisville, Kentucky
-date: '2014-01-06'
-tags: ['music', 'pop culture', 'interview']
-draft: true
-summary: I published a feature article in Impose Magazine about the state of the local music scene in my hometown in 2014.
+title: 'Reviews and interviews from my time as a music journalist, 2013-2015'
+date: '2015-01-01'
+tags: ['music', 'pop culture', 'interview', review']
+description: 'I published a ton of music reviews and interviews with musicians for several publications, both in print and online.'
+sidebar_label: 'Music Reviews'
 ---
 
 Ma Turner - _ZOZ_ (2014)

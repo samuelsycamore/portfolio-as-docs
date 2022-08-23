@@ -1,9 +1,9 @@
 ---
-title: An introductory book on edible wild plants
+title: 'An introductory book on edible wild plants'
 date: '2018-04-01'
 tags: ['biology', 'ecology', 'foraging']
-draft: true
-summary:
+description: 'In 2018, I self-published a book to help curious nature enthusiasts learn about edible wild plants.'
+sidebar_label: 'Introduction to Foraging'
 ---
 
 ![](/img/books/intro-foraging-thumbnail.png)
@@ -22,6 +22,8 @@ The book consists of two main parts: first, a broad introduction to the topic of
 
 _Introduction to Foraging_ enabled to me to make a name for myself as a reputable source for practical and well-researched information about wild foods.
 
-I would go on to tutor dozens of students from all over the United States and Canada on this topic.
+I would go on to tutor dozens of students from all over the United States and Canada on this topic through my Wild Food Mentorship program in 2019.
 
 I followed up this book in 2019 with my online course, _Foraging North America: the Botany, Taxonomy, and Ecology of Edible Wild Plants_.
+
+_Introduction to Foraging_ was revised and expanded into a second edition in 2022, now available to purchase through the [Sycamore Garden Shop](https://shop.sycamore.garden/).

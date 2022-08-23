@@ -1,5 +1,7 @@
 ---
+slug: '/'
 sidebar_position: 1
+sidebar_label: 'Welcome'
 ---
 
 # Sam Sycamore's Portfolio
@@ -15,3 +17,5 @@ I'm always happy to consider new clients for writing work.
 Feel free to [get in touch via email](mailto:samatsycamoredotgarden) if you'd like to work with me.
 
 This portfolio gathers highlights from across my career as a writer.
+It's built with [Docusaurus](https://www.docusaurus.io/), my favorite static site generator for creating and maintaining documentation sites.
+And speaking of frameworks—I'm also a big fan of [Next.js](https://nextjs.org/) and [Eleventy](https://11ty.dev/).
