@@ -15,7 +15,7 @@ I took ownership of the MUI Base documentation, collaborating with the library's
 
 I was responsible for creating and implementing a standard page structure and formatting for each of the component documents.
 I handled all aspects of the organization and information architecture.
-I wrote the majority of the text based on earlier drafts and internal notes created the library's engineers.
+I wrote the majority of the text based on earlier drafts and internal notes created by the library's engineers.
 I created and implemented the company [Style Guide](https://mui-org.notion.site/Style-guide-2a957a4168a54d47b14bae026d06a24b) to ensure consistency in voice and tone.
 
 The MUI docs site is built with Next.js and Material UI, and hosted on Netlify.
