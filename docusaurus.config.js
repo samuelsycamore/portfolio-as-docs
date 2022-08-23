@@ -55,36 +55,6 @@ const config = {
             position: 'left',
             label: 'Portfolio',
           },
-          {
-            href: 'https://tech.sycamore.garden',
-            label: 'Tech',
-            position: 'right',
-          },
-          {
-            href: 'https://foraging.sycamore.garden',
-            label: 'Foraging',
-            position: 'right',
-          },
-          {
-            href: 'https://travel.sycamore.garden',
-            label: 'Travel',
-            position: 'right',
-          },
-          {
-            href: 'https://soundcloud.com/samsycamore',
-            label: 'Music',
-            position: 'right',
-          },
-          {
-            href: 'https://shop.sycamore.garden',
-            label: 'Shop',
-            position: 'right',
-          },
-          {
-            href: 'https://sycamore.garden',
-            label: 'About',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -132,6 +102,31 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Sycamore Garden',
+            items: [
+              {
+                href: 'https://tech.sycamore.garden',
+                label: 'Tech',
+              },
+              {
+                href: 'https://foraging.sycamore.garden',
+                label: 'Foraging',
+              },
+              {
+                href: 'https://travel.sycamore.garden',
+                label: 'Travel',
+              },
+              {
+                href: 'https://soundcloud.com/samsycamore',
+                label: 'Music',
+              },
+              {
+                href: 'https://shop.sycamore.garden',
+                label: 'Shop',
+              },
+            ]
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Sycamore Garden. Built with Docusaurus.`,
       },
