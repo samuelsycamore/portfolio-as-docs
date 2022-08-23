@@ -17,7 +17,7 @@ As my audience grew, I discovered a need within the community for high-quality i
 
 Most of the existing resources online were either too "folksy" or else too scientific and academic.
 
-I set out to bridge the gap with [_Introduction to Foraging: A Beginner's Guide to Gathering Wild Foods With Confidence_](https://thegoodliferevival.com/shop/foraging), self-published in early 2018.
+I set out to bridge the gap with [_Introduction to Foraging: A Beginner's Guide to Gathering Wild Foods With Confidence_](https://shop.sycamore.garden/l/introduction-to-foraging), self-published in early 2018.
 
 The book consists of two main parts: first, a broad introduction to the topic of foraging; and second, a review of 12 of the most common species and genera of edible wild plants in North America and Europe.
 

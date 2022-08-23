@@ -94,19 +94,19 @@ const config = {
             title: 'Portfolio',
             items: [
               {
+                label: 'Technical writing',
+                to: '/category/technical-writing',
+              },
+              {
                 label: 'Copywriting',
                 to: '/category/copywriting',
               },
               {
-                label: 'Technical Writing',
-                to: '/category/technical-writing',
-              },
-              {
-                label: 'Content Writing',
+                label: 'Content writing',
                 to: '/category/content-writing',
               },
               {
-                label: 'Public Speaking',
+                label: 'Public speaking',
                 to: '/category/public-speaking',
               },
               {
@@ -116,7 +116,7 @@ const config = {
             ],
           },
           {
-            title: 'Get in Touch',
+            title: 'Get in touch',
             items: [
               {
                 label: 'LinkedIn',
