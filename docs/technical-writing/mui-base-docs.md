@@ -18,9 +18,9 @@ I handled all aspects of the organization and information architecture.
 I wrote the majority of the text based on earlier drafts and internal notes created the library's engineers.
 I created and implemented the company [Style Guide](https://mui-org.notion.site/Style-guide-2a957a4168a54d47b14bae026d06a24b) to ensure consistency in voice and tone.
 
-The MUI docs site is built with Next.js and Material UI, and hosted on Netlify via GitHub.
+The MUI docs site is built with Next.js and Material UI, and hosted on Netlify.
 All content is written in Markdown.
-We took a docs-as-code approach to writing these docs, tracking revisions with git and handling all reviews and edits in GitHub.
+We took a docs-as-code approach to writing these docs, tracking revisions with git and handling all reviews and edits in [GitHub](https://github.com/mui/material-ui/issues/32072).
 
 This project was part of a larger effort to overhaul the documentation of all of MUI's products, and it served as an initial testing ground to establish patterns and templates that could be reused in the future.
 
