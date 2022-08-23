@@ -95,23 +95,23 @@ const config = {
             items: [
               {
                 label: 'Copywriting',
-                to: '/docs/category/copywriting',
+                to: '/category/copywriting',
               },
               {
                 label: 'Technical Writing',
-                to: '/docs/category/technical-writing',
+                to: '/category/technical-writing',
               },
               {
                 label: 'Content Writing',
-                to: '/docs/category/content-writing',
+                to: '/category/content-writing',
               },
               {
                 label: 'Public Speaking',
-                to: '/docs/category/public-speaking',
+                to: '/category/public-speaking',
               },
               {
                 label: 'Books',
-                to: '/docs/category/books',
+                to: '/category/books',
               },
             ],
           },
