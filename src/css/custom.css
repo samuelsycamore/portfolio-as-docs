@@ -28,7 +28,8 @@
   --ifm-color-primary-lightest: #bee4ff;
 }
 
-p.text--truncate {
+p.text--truncate,
+h2.text--truncate {
   white-space: normal;
   overflow: visible;
 }

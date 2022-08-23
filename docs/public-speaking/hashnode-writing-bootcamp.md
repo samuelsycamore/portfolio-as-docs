@@ -3,7 +3,8 @@ title: 'A two-week writing bootcamp for a tech blogging platform'
 date: '2021-10-01'
 tags: ['copywriting', 'marketing', 'public speaking', 'event planning']
 description: 'I organized and hosted a live-streamed technical writing workshop series with top content creators in the tech industry.'
-sidebar_label: 'Technical Writing Bootcamp'
+sidebar_label: 'Hashnode technical writing bootcamp'
+sidebar_position: 1
 ---
 
 ![](/img/hashnode/hashnode.png)
