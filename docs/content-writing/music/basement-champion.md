@@ -7,7 +7,10 @@ sidebar_label: 'Basement Champion'
 sidebar_position: 1
 ---
 
-“Bad business is an expensive hobby.”
+_[Originally published](https://www.leoweekly.com/2013/09/basement-champion/) in the Louisville Eccentric Observer (LEO) Weekly Magazine, Sep. 24, 2013._
+
+## “Bad business is an expensive hobby.”
+
 So reads the company logo of Sophomore Lounge, an independent record label based out of one exceptionally cluttered basement in Jeffersonville, Ind. But for label head Ryan Davis, making money was never really the goal.
 
 “I started releasing music out of necessity, really,” says Davis. “No one else was going to put out the garbage I was creating. I knew some guys who were doing some stuff I thought was cool, so we all started doing stuff together, helping each other out, spreading the word. Eventually, the garbage got good, and it was something I could really stand behind.”
@@ -18,7 +21,8 @@ Touring heavily with State Champion gave Davis the opportunity to connect with l
 
 All of this is going on while Davis does his best to maintain some semblance of a real life — you know, working a job, spending time with his girlfriend, going to the grocery store. And all of this bad business — frankly, it’s thankless and exhausting work. But that’s not the point. As Davis would say: It’s more personal than that.
 
-Swimming through the sewage and the silver
+## Swimming through the sewage and the silver
+
 State Champion began with a set of demos called Light Blues, written and recorded by Davis while studying abroad in Glasgow, Scotland, in 2005. “Eventually I made some good friends over there,” he says, “but the first couple months were spent drinking a borderline-insane amount of alcohol, playing lots of guitar, taking trains and buses around the countryside and going weeks on end without even really speaking to another human being. It was a short but particularly formative period in my life.”
 
 Aside from country-western and folk heroes like Gene Clark, John Prine and the Flying Burrito Brothers, Davis says his main source of inspiration comes from the same musicians whose records he releases through Sophomore Lounge. “To this day,” he says, “my friends make a lot of my favorite records. I guess it all goes back to the feeling you get from hearing a really fucking good country song. There are only a small handful of people out there who still know how to write them.”
@@ -31,7 +35,8 @@ Though Davis is responsible for the bulk of the band’s material, he insists St
 
 He continues, “Even when it is completely shitty and you’re homesick and broke and sore and your phone stops working and you leave your debit card two states back just as you’re noticing your first patch of poison ivy and someone is blasting Aerosmith in the van — me — and all you want is for your clothes to not be covered in PBR that you didn’t even get to drink because it somehow got poured all over you, and, as it turns out, those two free PBRs were your only payment for the night because the promoter got ‘sick’ shortly before having to settle up with the bands ... and the Cards lost. Even then, it really is still the best thing in the world.”
 
-I’d do anything for money
+## I’d do anything for money
+
 Sophomore Lounge came to fruition in 2007 while Davis was working at Drag City in Chicago. Indeed, the taste-making indie label, responsible for releases by artists like Pavement, Royal Trux and Bonnie “Prince” Billy, had a big influence on Davis’ business plan. “They were the first label I really felt kind of ‘had it all.’ And I still do feel that way, even after having worked there for a couple years. The bands, the artwork, the history, the decision-making — the whole vibe of it was so on point. I really admired it in a way that made me want to run my own record label some day.
 
 “Of course, they learned everything they knew from labels like Touch & Go, who probably learned it all from SST, so it’s a lineage of understanding how things are done in a way that is financially sustainable, while retaining the utmost level of integrity. It’s a never-ending struggle, I know for a fact.”
@@ -62,7 +67,8 @@ Of course, time and money are the label’s biggest limiting factors.
 
 “I also tend to bite off more than I can chew in a way that isn’t always productive. You just have to find a balance that works with everything else in your life.”
 
-We weren’t winning, but we sure could pretend to be
+## We weren’t winning, but we sure could pretend to be
+
 As with most great ideas, the Cropped Out Festival began as a barstool daydream between Davis and his close friend James Ardery. In the beginning, says Davis, the biggest challenge was finding a place for himself in Louisville’s music scene after returning from Chicago in 2009, where he had been based for the previous five years.
 
 “Coming from Chicago, where I was working at a record label and all my friends were in bands and we had already started touring the country and committing ourselves to our art and music, it was just really frustrating at first, being back here,” Davis says. “I went from truly being a part of something special in Chicago, playing packed house shows and seeing mind-melting touring acts every other night of the week, to coming back home and starting over. And it was by my own choice. I was ready for that change, but that’s not to say it wasn’t a challenge every step of the way.

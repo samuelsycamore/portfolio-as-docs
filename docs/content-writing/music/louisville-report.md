@@ -1,5 +1,5 @@
 ---
-title: 'An interview series from the underground music scene in Louisville, Kentucky'
+title: 'An interview series from the local music scene in Louisville, Kentucky'
 date: '2014-01-06'
 tags: ['music', 'pop culture', 'interview']
 draft: false
@@ -20,9 +20,11 @@ I wanted the reader to feel like they were a member of my community, standing on
 
 I also collaborated with local photographer Michael Powell for many of the photos that accompanied the piece, but as I write this retrospective in 2022, those photos are nowhere to be found online. 😭
 
-The end result was [THE LOUISVILLE REPORT: WHITE REAPER, THE DEBAUCHEES, TROPICAL TRASH, ANWAR SADAT, OLD BABY](https://imposemagazine.com/features/the-louisville-report-white-reaper-the-debauchees-tropical-trash-anwar-sadat-old-baby).
+The end result was [The Louisville Report: White Reaper, The Debauchees, Tropical Trash, Anwar Sadat, and Old Baby](https://imposemagazine.com/features/the-louisville-report-white-reaper-the-debauchees-tropical-trash-anwar-sadat-old-baby), originally published in January 2014.
 
 Read the full text below:
+
+## The Louisville Report
 
 Let’s get one thing straight right off the bat: Louisville’s underground music scene is alive and well in the Derby City. While it’s exceedingly rare to catch an all-ages show at a punk house these days, Louisville musicians are especially crafty when it comes to organizing events at nontraditional venues – see recent concerts at gardening supply warehouse Fresh Start or the Cropped Out Festival’s takeover of The American Turners Club on the waterfront - originally a training facility for German immigrant gymnasts.
 
@@ -30,7 +32,7 @@ Things were looking grim for Louisville in 2011 when local brick-and-mortar reco
 
 I caught up with representatives from a few of my favorite bands in Louisville to find out who they’re digging around town and what we can expect from them in the coming year.
 
-**WHITE REAPER**
+### White Reaper
 
 Though I had already seen them more times than I could remember in the year since they had begun playing shows, Louisville’s premier garage-punk trio White Reaper were nonetheless one of the bands who I was most excited to see at last year’s Cropped Out Festival.
 
@@ -60,7 +62,7 @@ _How much of a bummer is it to be under age in a town where all-ages/18+ shows b
 
 It's a huge bummer. It's always in the way. I want to see Perfect Pussy later this month but I don't know if they'll let me in!
 
-**THE DEBAUCHEES**
+### The Debauchees
 
 White Reaper aren’t the only underage stars of the scene – indeed, it’s impossible to have a conversation about prodigious young talent in Louisville without mention of The Debauchees. Much ado is made about the fact that these kids had no clue how to play their instruments when they formed the band in high school a couple years ago, which, among other things, makes bassist Ashley Bowen’s spidery bass lines all the more impressive. The group’s bubbly post-punk/new-wave sound often garners comparisons to much older bands that the members will openly admit to knowing next to nothing about.
 
@@ -88,7 +90,7 @@ _What's in store for The Debauchees in 2014?_
 
 I have no idea what's in store for us. I guess we will figure it out. Maybe a tour. I hope so. I'd like to go everywhere.
 
-**TROPICAL TRASH**
+### Tropical Trash
 
 If you want to get to the bottom of what the improvisational scuzz-punk trio Tropical Trash are all about, you could do worse than to peruse the carefully curated bins at Astro Black Records, owned by TT frontman Jim Marlowe. Once relegated to a glorified closet in the back of a hip coffee shop, Astro Black now shares a significantly more legitimate space with the oddball, odds-and-ends thrift store Fat Rabbit, which is run by drummer Jeff Komara. And seeing as how the store boasts a dedicated section exclusively for Sophomore Lounge releases (likely the first of its kind in the entire known universe), it makes perfect sense that Tropical Trash recently picked up SL head honcho Ryan Davis (who also runs Cropped Out with James Ardery) as their new bassist. Sophomore Lounge was responsible for releasing 2013’s excellent _Think Back Kick A Beer_, the band’s second seven-inch record in as many years.
 
@@ -118,7 +120,7 @@ _What's the best record/tape you've got in stock at Astro Black currently?_
 
 I really love the Cherry Blossoms live one on RRRecords. The Dream Eye Color Wheel one is pretty great too, real lush wide sounds.
 
-**ANWAR SADAT**
+### Anwar Sadat
 
 Aside from nationally recognized contemporary artists like My Morning Jacket and Bonnie “Prince” Billy, Louisville is perhaps best known for its abrasive post-rock/punk/hardcore scene of the ‘90s, typified by pioneers like Slint, Rodan, and the like – they don’t call it “The Louisville Sound” for nothing. And while there are plenty of bands who carry on that longstanding local tradition, few do it quite as well as Anwar Sadat.
 
@@ -140,7 +142,7 @@ _What are Anwar Sadat's plans for 2014?_
 
 We plan on releasing a four-song EP sometime in the spring, and then I guess we'll tour. We're in the process of writing more songs though, which is what I'm most excited about.
 
-**OLD BABY**
+### Old Baby
 
 Given Louisville’s (questionable) designation as a “southern” city, it may surprise some that there isn’t more twang in the local flavor of DIY music. That could be because nobody wants to go toe-to-toe with local troubadour Jonathan Glen Wood, who heads the hypnotic, psychedelic blues band Old Baby (which also features Evan Patterson of Young Widows/Jaye Jayle and Todd Cook, formerly of Shipping News). The band’s sophomore effort Love Hangover, released in the fall via Karate Body Records, isn’t exactly a concept album, but most of its eight songs are thematically linked through images of sex and lust set to menacing, dirge-like slow-burners.
 

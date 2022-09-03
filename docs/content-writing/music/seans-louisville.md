@@ -6,8 +6,7 @@ description: 'I published a cover story in the LEO Weekly magazing about a commu
 sidebar_label: "Sean's Louisville"
 sidebar_position: 3
 ---
-
-https://www.leoweekly.com/2014/01/seans-louisville/
+_[Originally published](https://www.leoweekly.com/2014/01/seans-louisville/) in the Louisville Eccentric Observer (LEO) Weekly Magazine, Jan. 22, 2014._
 
 It’s approaching 2 in the morning on the first Friday in November when Sean Bailey and I step out of our third and final concert of the night. Mississippi rapper Big K.R.I.T. has just wrapped up a relentless performance at Diamond Pub, and Bailey is driving me back to my car downtown when I ask outright, “What is Louisville MUSICulture?” But, of course, there’s no real reason for this question — he has already demonstrated the answer to me over the last several hours.
 
@@ -19,7 +18,8 @@ Bailey, 36, is a surprisingly reserved fellow who didn’t think he had much of 
 
 But in retrospect, “What is Louisville MUSICulture?” was the wrong approach — the real question is, “Why is Louisville MUSICulture?” What drives Sean Bailey to devote so much time to this labor of love for this city and its culture? How does he find time to catalog so many concerts, let alone attend any of them? If I was going to get to the bottom of what makes Bailey tick, I knew I’d have to observe him in his natural habitat.
 
-THE SNOWMAN
+## The snowman
+
 Bailey and I begin our night by meeting up for a drink at Garage Bar. He’s just come from a gallery opening on the Trolley Hop circuit featuring art inspired by the music of Will Oldham and is eager to make his way to Zanzabar to see the jagged post-punk band Julie of the Wolves.
 
 While sipping gin and tonics at Garage Bar, we run into an old friend who previously worked with Bailey at the outdoors equipment store Quest Outdoors (where Bailey is currently employed, in addition to his role as social media coordinator for the Louisville Palace), and they laugh together about ratty old outdoor gear they still hold onto for sentimental reasons. After four years as a snowboarding instructor in Colorado, Bailey amassed a fair amount of well-worn and well-loved equipment.
@@ -30,7 +30,8 @@ With support and encouragement from his family and friends, he packed up a few b
 
 He returned home to Louisville in the summer of 2003, where he became an increasingly important staff member at ear X-tacy Records for the next eight years.
 
-FACEBOOK X-TACY
+## Facebook x-tacy
+
 This would prove to be a pivotal move for Bailey. “Many of the relationships I hold near and dear to this very day were cultivated there at the record shop,” he says.
 
 Indeed, ear X-tacy was where he met Laura Read, who is now his fiancée. Read shares Bailey’s enthusiasm for both music and the great outdoors. She’s also passionate about the culture of Louisville, working as a manager at WHY Louisville.
@@ -49,7 +50,8 @@ Unfortunately, all of the passion and online presence in the world couldn’t sa
 
 “This is one of the most difficult decisions that I’ve ever had to make in my 33 years,” he wrote, “but this is what needs to happen in order for me to pursue certain and specific goals that I’ve set for myself personally, academically, and professionally.”
 
-THE SOCIAL ANIMAL
+## The social animal
+
 After ear X-tacy shuttered its doors, Bailey’s newfound social media savvy led to a new position maintaining the Louisville Palace’s online presence. “Social media management and digital marketing were never anything I foresaw myself being involved in,” Bailey admits, “and it was simply by happenstance that I ever became immersed in such a realm.”
 
 Bailey also was driven to keep LMC alive, seeing as there was still a need for it in the community and, perhaps, as a tribute to ear X-tacy.
@@ -64,7 +66,8 @@ Read tells me Bailey is known for his concert-hopping antics, often meticulously
 
 Bailey adds, “As soon as I start to lose any portion of the experience of seeing live music as a direct result of trying to stretch myself too thin, that’s when I know I’m doing this for the wrong reasons. Thankfully, I’ve never reached that point, nor do I ever intend to.”
 
-BROTHERS: A TALE OF TWO SONS
+## Brothers: a tale of two sons
+
 When we arrive at Zanzabar to see Julie of the Wolves, we’re greeted by several friends and concert-going regulars, including Bailey’s older brother Evan, who plays in the longstanding indie rock band Second Story Man with a member of Julie of the Wolves, and whose lifelong musical journey is intricately interlaced with Sean’s.
 
 As the children of professional musicians, Sean and Evan began their musical training at an early age in their hometown of Tampa, Fla. Their father, Louie, is an organist and the music director at Crescent Hill Baptist Church. Their mother, June, works as a private piano and voice instructor, in addition to her role as choir conductor at the church.
@@ -81,7 +84,8 @@ Sean’s reasoning is a simple matter of logistics. “I still consider myself a
 
 While quick to second the notion that time is his major limiting factor, Bailey’s fiancée Read also suggests his shyness gets in the way of public performances. “He’s super humble, to the point where he doesn’t realize how good he is,” she says. “For example, if he plays a show with Second Story Man and someone comes up and says, ‘The drums sounded great!,’ it makes him uncomfortable. He’s so gracious, he doesn’t know how to accept compliments without feeling like he’s somehow solicited them from people.”
 
-SEAN BAILEY LIKES THIS?
+## Sean Bailey likes this?
+
 While we’re chatting with mutual acquaintances at Zanzabar, openers Twenty First Century Fox take the stage and dive right into their energetic, three-guitar dance-rock assault. Bailey and I squeeze through to the front of the stage for a better view.
 
 Between sets, we’re joined by a new circle of friends, all eager to share what they’ve been up to with him. The mood is jovial and Bailey is all smiles, but he doesn’t say much. Not that he could have gotten a word in edgewise, anyway; his friends can’t seem to talk fast enough to get through everything they want him to know about. It occurs to me that maybe this — soaking up the stories, absorbing all the good vibes from the people around us — is what Louisville MUSICulture is really about.
@@ -100,7 +104,8 @@ He tries to incorporate as many styles of music as possible into LMC, “and it�
 
 One thing is for certain: Louisville MUSICulture won’t be co-opted by moneyed interests anytime soon. “This is a complete labor of love for me,” Bailey explains, “and while I feel like I’ve put a fair amount of sweat equity into this, I’ve never seen nor asked for a single cent from anybody. I love keeping this as independent and Louisville-centric as possible, and I’ll strive for that to be the case for as long as I’m doing this.”
 
-ETERNAL LOVE
+## Eternal love
+
 On our way to Diamond Pub, I finally work up the nerve to bring up the one topic I’ve been dreading most: Might Bailey and Read one day pack up and leave Louisville behind?
 
 And what about those life goals alluded to in Bailey’s farewell address to ear X-tacy? What about the graduate degree in sociocultural anthropology, perpetually “on the backburner in order to focus on the here and now”?
