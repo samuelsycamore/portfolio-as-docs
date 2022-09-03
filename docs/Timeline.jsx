@@ -25,7 +25,6 @@ export default function CustomizedTimeline() {
           sx={{ m: 'auto 0' }}
           align="right"
           variant="body2"
-          color="text.secondary"
         >
           2022 - present
         </TimelineOppositeContent>
@@ -47,7 +46,6 @@ export default function CustomizedTimeline() {
         <TimelineOppositeContent
           sx={{ m: 'auto 0' }}
           variant="body2"
-          color="text.secondary"
         >
           2021 - 2022
         </TimelineOppositeContent>
@@ -70,7 +68,6 @@ export default function CustomizedTimeline() {
           sx={{ m: 'auto 0' }}
           align="right"
           variant="body2"
-          color="text.secondary"
         >
           2020 - present
         </TimelineOppositeContent>
@@ -92,7 +89,6 @@ export default function CustomizedTimeline() {
         <TimelineOppositeContent
           sx={{ m: 'auto 0' }}
           variant="body2"
-          color="text.secondary"
         >
           2018 - 2020
         </TimelineOppositeContent>
@@ -114,7 +110,6 @@ export default function CustomizedTimeline() {
         <TimelineOppositeContent
           sx={{ m: 'auto 0' }}
           variant="body2"
-          color="text.secondary"
         >
           2016 - 2020
         </TimelineOppositeContent>
@@ -137,7 +132,6 @@ export default function CustomizedTimeline() {
           sx={{ m: 'auto 0' }}
           align="right"
           variant="body2"
-          color="text.secondary"
         >
           2012 - 2015
         </TimelineOppositeContent>
@@ -159,7 +153,6 @@ export default function CustomizedTimeline() {
         <TimelineOppositeContent
           sx={{ m: 'auto 0' }}
           variant="body2"
-          color="text.secondary"
         >
           2006 - 2012
         </TimelineOppositeContent>
