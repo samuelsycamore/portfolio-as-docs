@@ -1,7 +1,7 @@
 ---
 title: 'API documentation for an open source React UI library'
 date: '2022-07-22'
-tags: ['technical writing', 'documentation', 'JavaScript', 'TypeScript', 'React', 'API']
+tags: ['technical writing', 'documentation', 'open source', 'JavaScript', 'TypeScript', 'React', 'API']
 description: 'I worked with the maintainers of MUI Base to develop thorough technical documentation for this React UI library.'
 sidebar_label: 'MUI Base product documentation'
 ---
