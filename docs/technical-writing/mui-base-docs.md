@@ -8,6 +8,8 @@ sidebar_label: 'MUI Base product documentation'
 
 ![](/img/mui/mui-base-docs.png)
 
+## MUI Base documentation
+
 [MUI](https://www.mui.com/) is an international startup best known for Material UI, an open source React UI library that implements Google's [Material Design](https://www.material.io/).
 
 In 2022 the company introduced [MUI Base](https://mui.com/base/getting-started/overview/), a library of headless UI components extracted from its more opinionated predecessor, Material UI.
