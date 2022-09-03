@@ -114,10 +114,6 @@ const config = {
                 label: 'Foraging',
               },
               {
-                href: 'https://travel.sycamore.garden',
-                label: 'Travel',
-              },
-              {
                 href: 'https://soundcloud.com/samsycamore',
                 label: 'Music',
               },
