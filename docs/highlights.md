@@ -10,7 +10,7 @@ Here are some of the best pieces from my portfolio:
 
 ## Technical writing
 
-- [MUI Base documentation](https://mui.com/base/getting-started/overview/)
+- [Base UI documentation](https://mui.com/base-ui/getting-started/overview/)
 
 ## Copywriting
 
