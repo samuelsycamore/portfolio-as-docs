@@ -2,18 +2,18 @@
 title: 'API documentation for an open source React UI library'
 date: '2022-07-22'
 tags: ['technical writing', 'documentation', 'open source', 'JavaScript', 'TypeScript', 'React', 'API']
-description: 'I worked with the maintainers of MUI Base to develop thorough technical documentation for this React UI library.'
-sidebar_label: 'MUI Base product documentation'
+description: 'I worked with the maintainers of Base UI to develop thorough technical documentation for this React UI library.'
+sidebar_label: 'Base UI product documentation'
 ---
 
 ![](/img/mui/mui-base-docs.png)
 
-## MUI Base documentation
+## Base UI documentation
 
 [MUI](https://www.mui.com/) is an international startup best known for Material UI, an open source React UI library that implements Google's [Material Design](https://www.material.io/).
 
-In 2022 the company introduced [MUI Base](https://mui.com/base/getting-started/overview/), a library of headless UI components extracted from its more opinionated predecessor, Material UI.
-I took ownership of the MUI Base documentation, collaborating with the library's maintainers to document the component APIs and DOM structure, provide code snippets and demos, and share best practices for usage.
+In 2022 the company introduced [Base UI](https://mui.com/base/getting-started/overview/), a library of headless UI components extracted from its more opinionated predecessor, Material UI.
+I took ownership of the Base UI documentation, collaborating with the library's maintainers to document the component APIs and DOM structure, provide code snippets and demos, and share best practices for usage.
 
 I was responsible for creating and implementing a standard page structure and formatting for each of the component documents.
 I handled all aspects of the organization and information architecture.
@@ -26,4 +26,4 @@ We took a docs-as-code approach to writing these docs, tracking revisions with g
 
 This project was part of a larger effort to overhaul the documentation of all of MUI's products, and it served as an initial testing ground to establish patterns and templates that could be reused in the future.
 
-Read the [MUI Base documentation](https://mui.com/base/getting-started/overview/).
+Read the [Base UI documentation](https://mui.com/base-ui/getting-started/overview/).
