@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Sycamore Garden Portfolio',
   tagline: 'The professional portfolio of Sam Sycamore, a writer and web developer.',
-  url: 'https://work.sycamore.garden',
+  url: 'https://sycamore.garden',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -111,15 +111,11 @@ const config = {
               },
               {
                 href: 'https://foraging.sycamore.garden',
-                label: 'Foraging',
+                label: 'Plants',
               },
               {
                 href: 'https://soundcloud.com/samsycamore',
                 label: 'Music',
-              },
-              {
-                href: 'https://shop.sycamore.garden',
-                label: 'Shop',
               },
             ]
           }
